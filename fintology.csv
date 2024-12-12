@@ -1,0 +1,4 @@
+credit_score,income,dti,min_credit_score,max_dti,interest_rate,labels
+720,50000,0.25,700,0.3,3.5,1
+680,45000,0.35,680,0.35,4,0
+600,60000,0.2,900,0.9,5.8,1
